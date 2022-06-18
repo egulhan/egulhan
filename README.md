@@ -1,5 +1,6 @@
 ### Hi folks! I'm Erman. :bowtie:
 
+
 🔭 I’m currently working on multiple projects
 
 🌱 I’m currently learning Vuejs (its inside-out), Golang
@@ -7,6 +8,7 @@
 💬 Ask me about PHP, Laravel, Vuejs, Flutter, Javascript
 
 ⚡ Fun fact: PHP will not die! :smiling_imp:
+
 
 
 ## Trophies
@@ -21,5 +23,5 @@
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=egulhan&theme=blue-green)
 
 
-## Profile View Counter
+<!-- ## Profile View Counter -->
 <img src="https://komarev.com/ghpvc/?username=egulhan"/>

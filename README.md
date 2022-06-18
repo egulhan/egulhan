@@ -8,8 +8,11 @@
 - 💬 Ask me about PHP, Laravel, Vuejs, Flutter, Javascript
 - ⚡ Fun fact: PHP is not dying :smiley:
 
+## GitHub Stats
 ![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=egulhan&show_icons=true)
 
+## Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=egulhan&theme=blue-green)
 
-<img src=https://komarev.com/ghpvc/?username=egulhan/>
+## Profile View Counter
+<img src="https://komarev.com/ghpvc/?username=egulhan"/>

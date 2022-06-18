@@ -1,7 +1,7 @@
 ### Hi folks! I'm Erman. :bowtie:
 
-🔭 I’m currently working on multiple projects**Enter**
-🌱 I’m currently learning Vuejs (its inside-out), Golang**Enter**
+🔭 I’m currently working on multiple projects **Enter** **Enter**
+🌱 I’m currently learning Vuejs (its inside-out), Golang **Enter** **Enter**
 💬 Ask me about PHP, Laravel, Vuejs, Flutter, Javascript**Enter**
 ⚡ Fun fact: PHP will not die! :smiling_imp:**Enter**
 

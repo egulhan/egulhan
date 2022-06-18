@@ -1,9 +1,9 @@
 ### Hi folks! I'm Erman. :bowtie:
 
-- 🔭 I’m currently working on multiple projects
-- 🌱 I’m currently learning Vuejs (its inside-out), Golang
-- 💬 Ask me about PHP, Laravel, Vuejs, Flutter, Javascript
-- ⚡ Fun fact: PHP will not die! :smiling_imp:
+🔭 I’m currently working on multiple projects
+🌱 I’m currently learning Vuejs (its inside-out), Golang
+💬 Ask me about PHP, Laravel, Vuejs, Flutter, Javascript
+⚡ Fun fact: PHP will not die! :smiling_imp:
 
 ## Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=egulhan)](https://github.com/ryo-ma/github-profile-trophy)

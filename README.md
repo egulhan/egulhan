@@ -7,3 +7,9 @@
 - 🌱 I’m currently learning Vuejs (its inside-out), Golang
 - 💬 Ask me about PHP, Laravel, Vuejs, Flutter, Javascript
 - ⚡ Fun fact: PHP is not dying :smiley:
+
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=egulhan&show_icons=true)
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=egulhan&theme=blue-green)
+
+<img src=https://komarev.com/ghpvc/?username=egulhan/>

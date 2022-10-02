@@ -7,7 +7,7 @@
 
 💬 Ask me about PHP, Laravel, Vuejs, Flutter, Javascript
 
-⚡ Fun fact: PHP will not die! :smiling_imp:
+⚡ The fact is that PHP will not die! :smiling_imp:
 
 
 

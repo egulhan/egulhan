@@ -3,8 +3,6 @@
 
 🔭 I’m currently working on multiple projects
 
-🌱 I’m currently learning Vuejs (its inside-out), Golang
-
 💬 Ask me about PHP, Laravel, Vuejs, Flutter, Javascript
 
 ⚡ The fact is that PHP will not die! :smiling_imp:

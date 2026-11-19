@@ -4,11 +4,12 @@ I started out as a software engineer, and over the years my work has shifted tow
 
 As the founder of **Lokum Ops**, I lead the technical side of our engagements and like to stay close to the work, from the first design decisions all the way to production.
 
-**🎯 Focus areas**
+#### 🎯 Focus areas
 AWS migration and modernization · Cloud architecture · Infrastructure as code · Generative AI on AWS · Containers and databases · DevOps · Cost optimization
 
-**🛠️ Technologies**
+#### 🛠️ Technologies
 AWS · AWS CDK · Terraform · Docker · Amazon Bedrock · TypeScript · Python · PHP / Laravel · PostgreSQL · MySQL · Redis
 
-**💬 Let's connect**
+#### 💬 Let's connect
 If you're building something, planning a move to AWS, or just want to talk tech, feel free to reach out.
+

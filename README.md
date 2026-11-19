@@ -1,25 +1,14 @@
-### Hi folks! I'm Erman. :bowtie:
+## Hi, I'm Erman 👋
 
+I started out as a software engineer, and over the years my work has shifted toward cloud architecture, AWS migrations, DevOps, and Generative AI. These days I help startups and technology companies design, migrate, and modernize their workloads on AWS.
 
-🔭 I’m currently working on multiple projects
+As the founder of **Lokum Ops**, I lead the technical side of our engagements and like to stay close to the work, from the first design decisions all the way to production.
 
-💬 Ask me about PHP, Laravel, Vuejs, Flutter, Javascript
+**🎯 Focus areas**
+AWS migration and modernization · Cloud architecture · Infrastructure as code · Generative AI on AWS · Containers and databases · DevOps · Cost optimization
 
-⚡ The fact is that PHP will not die! :smiling_imp:
+**🛠️ Technologies**
+AWS · AWS CDK · Terraform · Docker · Amazon Bedrock · TypeScript · Python · PHP / Laravel · PostgreSQL · MySQL · Redis
 
-
-
-## Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=egulhan)](https://github.com/ryo-ma/github-profile-trophy)
-
-<!--
-## GitHub Stats
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=egulhan&show_icons=true)
--->
-
-## Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=egulhan&theme=blue-green)
-
-
-<!-- ## Profile View Counter -->
-<img src="https://komarev.com/ghpvc/?username=egulhan"/>
+**💬 Let's connect**
+If you're building something, planning a move to AWS, or just want to talk tech, feel free to reach out.
